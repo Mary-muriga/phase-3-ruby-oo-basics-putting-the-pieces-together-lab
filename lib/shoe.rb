@@ -18,4 +18,4 @@ shoe.brand
 shoe.color = "red"
 shoe.size = "9.5"
 shoe.material = "suede"
-shoe.condition = "new"
+shoe.condition = "tattered"
